@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git config:*)",
+      "Bash(git remote set-url:*)",
+      "Bash(git add:*)",
+      "Bash(git push:*)",
+      "Bash(pdftotext:*)",
+      "Bash(mkdir:*)",
+      "Bash(git commit:*)",
+      "Bash(ls:*)",
+      "Bash(npx zenn:*)",
+      "Bash(npm install:*)"
+    ],
+    "deny": []
+  }
+}
