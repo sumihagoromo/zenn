@@ -10,7 +10,10 @@
       "Bash(git commit:*)",
       "Bash(ls:*)",
       "Bash(npx zenn:*)",
-      "Bash(npm install:*)"
+      "Bash(npm install:*)",
+      "WebFetch(domain:blog.google)",
+      "WebFetch(domain:cloud.google.com)",
+      "WebFetch(domain:docs.anthropic.com)"
     ],
     "deny": []
   }
