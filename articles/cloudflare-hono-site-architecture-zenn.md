@@ -1,6 +1,5 @@
-
 ---
-title: "Cloudflare × Honoで爆速企業サイトを作る完全ガイド🔥"
+title: "現役最強アーキテクチャCloudflare × Honoで爆速企業サイトを作る完全ガイド🔥"
 emoji: "🚀"
 type: "tech"
 topics: ["cloudflare", "hono", "r2", "d1", "web開発"]
