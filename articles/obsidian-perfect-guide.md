@@ -3,7 +3,7 @@ title: "【完全ガイド】Claude Code × Obsidian|メモの同期・整理・
 emoji: "🙌"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["obsidian", "git", "claudecode", "iCloud", "自動化"]
-published: false
+published: true
 ---
 
 おはすみ〜！羽衣すみですっ🐰🎀
